@@ -7,7 +7,7 @@ Es necesario clonar el repositorio desde GitHub y acceder al directorio del proy
 Escribe el siguiente comando en la terminal:
 Git clone seguido de la dirección del repositorio, por ejemplo:
 
-git clone https://github.com/tu_usuario/tu_repositorio.git
+git clone https://github.com/Erick21Garcia/PythonIoT.git
 cd tu_repositorio
 Instalar dependencias:
 Instalar las librerías requeridas ejecutando el siguiente comando en la terminal:
